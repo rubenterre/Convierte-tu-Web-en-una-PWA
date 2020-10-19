@@ -3,9 +3,9 @@
 Con estos archivos he convertido mi sitio web en una PWA. Esta tecnología tiene muchas ventajas:
 
   - Así como existen aplicaciones para Windows, Mac, Android o iOS, también existen otro tipo de aplicaciones que no dependen de ningún sistema operativo, sino que tienen lugar en una página web en un navegador.
-  - Aplicaciones más fluidas y con mayor capacidad de respuesta
-  - Aplicaciones rápidas para crear
-  - Notificaciones push
+  - Son aplicaciones más fluidas y con mayor capacidad de respuesta
+  - Son aplicaciones rápidas de crear
+  - Pueden contener notificaciones push
 
 
 Puedes probarlo en [RubenTerre](https://www.rubenterre.com/) 
